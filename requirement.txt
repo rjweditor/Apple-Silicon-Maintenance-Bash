@@ -1,0 +1,4 @@
+softwareupdate
+mas
+dfcleanmgr
+malwarebytes
